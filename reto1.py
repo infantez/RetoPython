@@ -1,5 +1,7 @@
 '''
-#RetoPython - Código facilito
+# RetoPython - Código facilito
+# Autor: Nestor Infante
+
 Para este primer reto de la semana, tu objetivo será poder crear un programa en Python 
 el cual permita registrar a un usuario en el sistema.
 
@@ -9,6 +11,7 @@ Nombre(s)
 Apellidos
 Número de teléfono
 Correo electrónico.
+
 Una vez el usuario haya ingresado todos los datos vía teclado, el programa le dará la bienvenida 
 al usuario con el siguiente mensaje:
 
